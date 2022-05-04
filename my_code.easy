@@ -1,0 +1,5 @@
+full_name = "John Doe" ;
+name = full_name - 4 ;
+surname = 5 - full_name ;
+'' + print = name + ' ' + surname + ' is ' + age = 25 ;
+' ' + print = 'years old. '
