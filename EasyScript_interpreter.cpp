@@ -783,9 +783,10 @@ void run(std::string my_code) {
 }
 
 int main() {
-    std::string my_code; // = "a = 5 \n b = a + 5 \n a b c";
+    std::string my_code;
+    std::cout << "Please enter the path of the file you want to compile." << std::endl;
     std::string path = "my_code.easy";
-    //std::cin >> path;
+    std::cin >> path;
     std::fstream strm;
     strm.open(path);
         if (strm.is_open()) {
@@ -798,7 +799,6 @@ int main() {
             if (strm.is_open())
                 std::cout << "Stream could not close!" << std::endl;
         }
-    //std::cout << my_code;
     run(my_code);
     return 0;
 }
