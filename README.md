@@ -1,2 +1,2 @@
 # EasyScript
-EasyScript Programming Language is my 
+EasyScript is the name of my 
