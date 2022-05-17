@@ -1,5 +1,4 @@
 # EasyScript Documentation
-EasyScript Programming Language and interpreter
 
 Welcome to the EasyScript programming language documentation.
 Glad to see you have chosen this brand new and EASY language with absolute simple syntax and without unneesary and annoying errors.
