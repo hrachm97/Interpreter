@@ -1,4 +1,4 @@
-# EasyScript
+# EasyScript Documentation
 EasyScript Programming Language and interpreter
 
 Welcome to the EasyScript programming language documentation.
